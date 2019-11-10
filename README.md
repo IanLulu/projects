@@ -1,5 +1,4 @@
-# projects
-School projects from courses I've taken so far (CS 107)
+projects from CS 107
 
 # Project 1
 Part 1: This program checks if a seat is open or taken in a classroom with 11 rows of seats, each with 16 seats.
